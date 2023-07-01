@@ -93,11 +93,6 @@ yarn add -D eslint-plugin-import @typescript-eslint/parser eslint-import-resolve
 ver configurações necessárias do `eslint-import-resolver-typescript` para funcionar correto com o path mapping
 
 
-~~[Ordenar as importações - eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)~~
-```bash
-#yarn add -D eslint-plugin-simple-import-sort~~
-```
-
 [Ordenar as importações - @trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports#readme)
 ```bash
 yarn add -D @trivago/prettier-plugin-sort-imports
