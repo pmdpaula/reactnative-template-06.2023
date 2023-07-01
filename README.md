@@ -128,12 +128,12 @@ yarn add -D eslint prettier eslint-config-prettier eslint-plugin-react @typescri
 
 yarn add -D eslint-plugin-import @typescript-eslint/parser eslint-import-resolver-typescript eslint-import-resolver-babel-module
 
-yarn add -D babel-plugin-module-resolver
+yarn add -D babel-plugin-module-resolver eslint-plugin-module-resolver
 
 yarn add -D @trivago/prettier-plugin-sort-imports
 ```
 
 ou
 ```bash
-yarn add -D eslint prettier eslint-config-prettier eslint-plugin-react @typescript-eslint/eslint-plugin eslint-plugin-import @typescript-eslint/parser eslint-import-resolver-typescript eslint-import-resolver-babel-module babel-plugin-module-resolver @trivago/prettier-plugin-sort-imports
+yarn add -D eslint prettier eslint-config-prettier eslint-plugin-react @typescript-eslint/eslint-plugin eslint-plugin-import @typescript-eslint/parser eslint-import-resolver-typescript eslint-import-resolver-babel-module babel-plugin-module-resolver eslint-plugin-module-resolver @trivago/prettier-plugin-sort-imports
 ```
